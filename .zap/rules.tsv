@@ -1,0 +1,3 @@
+10021	IGNORE	(Cross-Domain Misconfiguration)
+10023	IGNORE	(Information Disclosure - Debug Error Messages)
+10024	IGNORE	(Information Disclosure - Sensitive Information in URL)
